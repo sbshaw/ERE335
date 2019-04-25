@@ -1,0 +1,16 @@
+---
+title: "Classes"
+output: 
+  html_document
+---
+
+
+```{r,echo=FALSE, eval=FALSE}
+rmarkdown::render_site("labs.Rmd")# build webpage
+rmarkdown::render_site()# build site
+```
+
+
+## Labs
+
+here is my lab shit
