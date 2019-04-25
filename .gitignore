@@ -1,36 +1,70 @@
-# History files
-.Rhistory
-.Rapp.history
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Session Data files
-.RData
+# Folder config file
+Desktop.ini
 
-# Example code in package build process
-*-Ex.R
+# CAMTASIA FILES
+*.TSCPROJ
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# ignore output folder
+_Archive/
+_Course-Information/
+_Classes/
+_Laboratories/
+_potential-readings/
+_code/
+_videos
+_media
+_movies
+*STMX
+*isdb
+media/Tutorial-videos
 
-# Output files from R CMD build
-/*.tar.gz
 
-# Output files from R CMD check
-/*.Rcheck/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mp4
+*.mov
+# Office files
+Course-Materials/PDF/*.docx
+*.pptx
 
-# RStudio files
-.Rproj.user/
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# Windows shortcuts
+*.lnk
 
-# knitr and R markdown default cache directories
-/*_cache/
-/cache/
+# =========================
+# Operating System Files
+# =========================
 
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
+# OSX
+# =========================
 
-# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
-rsconnect/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

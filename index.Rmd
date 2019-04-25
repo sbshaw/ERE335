@@ -1,0 +1,48 @@
+---
+title: "Classes"
+output: 
+  html_document
+---
+
+
+```{r,echo=FALSE, eval=FALSE}
+rmarkdown::render_site("index.Rmd")# build webpage
+rmarkdown::render_site()# build site
+```
+
+
+## Class Decks
+
+* Class 01 [PDF](pdfs/SP19-01.pdf)
+* Class 02 [PDF](pdfs/SP19-02.pdf)
+    * [State of World Fisheries- Part I](https://youtu.be/lXMheis4CkI)
+    * [State of World Fisheries- Part II](https://youtu.be/S3KoqvyWQEQ)
+    * [State of World Fisheries- Part III](https://youtu.be/IGslY-JOeJ0)
+* Class 03 [PDF](pdfs/SP19-03.pdf)
+* Class 04 [PDF](pdfs/SP19-04.pdf)
+* Class 05 [PDF](pdfs/SP19-05.pdf)
+* Class 06 [PDF](pdfs/SP19-06.pdf)
+* Class 07 [PDF](pdfs/SP19-07.pdf)
+* Class 08 [PDF](pdfs/SP19-08.pdf)
+* Class 09 [PDF](pdfs/SP19-09.pdf)
+* Class 10 [PDF](pdfs/SP19-10.pdf) Up to here for exam 1.
+* Exam 1 Key [PDF](pdfs/4133 Exam-SP19-key.pdf) 
+* Class 11 [PDF](pdfs/SP19-11.pdf) 
+* Class 12 [PDF](pdfs/SP19-12.pdf) 
+* Class 13 [PDF](pdfs/SP19-13.pdf) 
+* Class 14 [PDF](pdfs/SP19-14.pdf) 
+* Class 15 [PDF](pdfs/SP19-15.pdf) 
+* Class 16 [PDF](pdfs/SP19-16.pdf) 
+* Class 17 [PDF](pdfs/SP19-17.pdf) 
+* Class 18 [PDF](pdfs/SP19-18.pdf) 
+* Exam 2 Study guide [PDF](pdfs/WFA4133-Exam-II-Study-Guide.pdf) 
+* Class 19 [PDF](pdfs/SP19-19.pdf) 
+* Exam 2
+* Class 20 [PDF](pdfs/SP19-20.pdf) 
+* Class 21 [PDF](pdfs/SP19-21.pdf) 
+* Exam 2 Key [PDF](pdfs/4133-Exam-II-SP19-Key.pdf) 
+* Class 22 [PDF](pdfs/SP19-22.pdf) 
+    * [The Lost Fish](https://vimeo.com/116177956)
+* Class 23 [PDF](pdfs/SP19-23.pdf) 
+* Class 24 [PDF](pdfs/SP19-24.pdf) 
+* [Final Exam Study Questions](https://mcolvin.github.io/WFA4133/final-exam-questions.html)

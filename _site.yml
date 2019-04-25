@@ -1,0 +1,26 @@
+name: "WFA4133"
+navbar:
+  title: "WFA4133"
+  right:
+    - text: "Classes"
+      icon: fa-files-o
+      href: index.html  
+    - text: "Labs"
+      icon: fa-pencil-square-o
+      href: labs.html     
+    - text: "Assignments"
+      icon: fa-pencil-square-o
+      href: assignments.html        
+    - text: "Literature"
+      icon: fa-book     
+      href: literature.html 
+    - text: "Syllabus"
+      icon: fa-file-text
+      href: syllabus.html       
+output_dir: "docs"
+exclude: ["*.bib","*.csv","*.xlsx","*.docx","*.pptx","*.txt","_videos","*.mp4","*.Rmd","classes","labs"]    
+include: [".nojekyll"] 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
