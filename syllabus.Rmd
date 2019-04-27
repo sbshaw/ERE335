@@ -1,0 +1,19 @@
+---
+title: "Syllabus"
+output: 
+  html_document
+---
+
+
+```{r,echo=FALSE, eval=FALSE}
+rmarkdown::render_site("syllabus.Rmd")# build webpage
+rmarkdown::render_site()# build site
+```
+
+
+## Course Decription
+
+Lab assignmentss for the semester are contained in the following document:
+
+
+## Complete Syllabus
