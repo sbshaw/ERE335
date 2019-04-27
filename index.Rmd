@@ -1,5 +1,5 @@
 ---
-title: "General Info"
+title: "Classes"
 output: 
   html_document
 ---

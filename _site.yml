@@ -2,15 +2,15 @@ name: "ERE335"
 navbar:
   title: "ERE335"
   right:
-    - text: "General Info"
+    - text: "Classes"
       icon: fa-files-o
       href: index.html  
     - text: "Labs"
       icon: fa-pencil-square-o
       href: labs.html     
-<!-- - text: "Assignments"      --> 
-<!--   icon: fa-pencil-square-o  --> 
-<!--   href: assignments.html   -->        
+   - text: "Assignments"       
+     icon: fa-pencil-square-o   
+     href: assignments.html           
     - text: "Literature"
       icon: fa-book     
       href: literature.html
