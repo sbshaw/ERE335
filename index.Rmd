@@ -1,7 +1,6 @@
 ---
 title: "Classes"
-output: 
-  html_document
+output: html_document
 ---
 
 
