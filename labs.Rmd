@@ -11,6 +11,15 @@ rmarkdown::render_site()# build site
 ```
 
 
-## Labs
+## Lab Assignments
 
-here is my lab shit
+Lab assignmentss for the semester are contained in the following document:
+
+
+## Lab Grading
+Each assignment varies in complexity, length, and required outcomes. 
+
+|Lab | Output Print-out | Raw Code | Pseudo Code |
+|---|-----|----|----|
+| 1 |  Y  | Y | N |
+| 2 |  Y  | Y | N |
