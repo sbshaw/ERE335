@@ -2,7 +2,7 @@ name: "ERE335"
 navbar:
   title: "ERE335"
   right:
-    - text: "General"
+    - text: "General Info"
       icon: fa-files-o
       href: index.html  
     - text: "Labs"
