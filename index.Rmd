@@ -6,8 +6,8 @@ output:
 
 
 ```{r,echo=FALSE, eval=FALSE}
-rmarkdown::render_site("index.Rmd")# build webpage
-rmarkdown::render_site()# build site
+rmarkdown::render_site("index.Rmd")# render the file in the parentheses
+rmarkdown::render_site()# this renders ALL RMD files in your working directory-rarely used
 ```
 
 
