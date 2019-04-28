@@ -13,7 +13,7 @@ rmarkdown::render_site()# this renders ALL RMD files in your working directory-r
 
 ## Class Schedule
 
-* Class 01 (Lec.1): Computational Thinking [PPT](pdfs/Lecture1&2.pptx)
+* Class 01 (Lec.1): Computational Thinking [PPT](pdfs/Lecture1-and-2.pptx)
 * Class 02 (Auto.2): R Basics [PDF]
     * [State of World Fisheries- Part I](https://youtu.be/lXMheis4CkI)
 * Class 03 (Lab 1): Getting Started in R [DOC](pdfs/Labs_2019.docx)
