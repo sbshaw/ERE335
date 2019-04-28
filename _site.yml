@@ -13,7 +13,7 @@ navbar:
       href: syllabus.html    
    
 output_dir: "docs"
-exclude: ["*.bib","*.csv","*.xlsx","*.docx","*.pptx","*.txt","_videos","*.mp4","*.Rmd","classes","labs"]    
+exclude: ["*.bib","*.csv","*.xlsx","*.docx","*.txt","_videos","*.mp4","*.Rmd","classes","labs"]    
 include: [".nojekyll"] 
 output:
   html_document:
