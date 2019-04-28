@@ -28,7 +28,7 @@ rmarkdown::render_site()# build site
 * Class 12 (Lec.5): Commenting, Pseudocode, & Exception Handling [PDF](pdfs/SP19-11.pdf) 
 * Class 13 (Auto. 4): Simple Loops [PDF](pdfs/SP19-12.pdf) 
 * Class 14 (Lab 5): Simple Loops [PDF](pdfs/SP19-13.pdf) 
-* Class 15 (Lec. 6) & Quiz 1: Loops with Multiple Variables & Alternatives [PDF](pdfs/SP19-14.pdf) 
+* Class 15 (Lec. 6) & Quiz 1: Loops with Multiple Variables & Alternatives [HTML](pdfs/LoopsIntro.html) 
 * Class 16 (Auto. 5): Multivariable Loops (pdfs/SP19-15.pdf) 
 * Class 17 (Lab 6): Multivarible Loops [PDF](pdfs/SP19-16.pdf) 
 * Class 18 Test Review: Last Year's Test [PDF](pdfs/SP19-17.pdf) 
