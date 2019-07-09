@@ -13,21 +13,20 @@ rmarkdown::render_site()# this renders ALL RMD files in your working directory-r
 
 ## Class Schedule
 
-* Class 01 (Lec.1): Computational Thinking [PPT](pdfs/Lecture1-and-2.pptx)
+* Class 01 (Lec.1): Computational Thinking [PPT](pdfs/Lecture1and2.pptx)
 * Class 02 (Lec.2): Comp. Thinking Con't & R Basics 
-    * [State of World Fisheries- Part I](https://youtu.be/lXMheis4CkI)
 * Class 03 (Lab 1): Getting Started in R [DOC](pdfs/Labs_2019.docx)
 * Class 04 (Lec.3): Variables and Basic I/O [PDF](pdfs/Lecture5.pptx)
-* Class 05 (Lab 2):  Madlibs [PDF](pdfs/SP19-05.pdf)
-* Class 06 (Lec.4): Basic Data Structures[PPT](pdfs/SP19-06.pdf)
+* Class 05 (Lab 2):  Madlibs [PDF](pdfs/Labs_2019.docx)
+* Class 06 (Lec.4): Basic Data Structures[PPT](pdfs/Lecture4.pdf)
 * Class 07 (Auto.1): Vectors & Arrays [PDF](pdfs/SP19-07.pdf)
 * Class 08 (Lab 3): Vectors & Arrays [PDF](pdfs/SP19-08.pdf)
-* Class 09 (Lec. 4): Hex & Conditionals  [PDF](pdfs/SP19-09.pdf)
+* Class 09 (Lec. 5): Hex & Conditionals  [PDF](pdfs/SP19-09.pdf)
 * Class 10 (Auto.2): Conditionals  [PDF](pdfs/SP19-10.pdf) Up to here for exam 1.
-* Class 11 (Lab 4): Conditionals & Hex Practice [PDF](pdfs/4133 Exam-SP19-key.pdf) 
+* Class 11 (Lab 4): Conditionals & Hex Practice [PDF](pdfs/Labs_2019.docx) 
 * Class 12 (Lec.5): Commenting, Pseudocode, & Exception Handling [PDF](pdfs/SP19-11.pdf) 
 * Class 13 (Auto. 4): Simple Loops [PDF](pdfs/SP19-12.pdf) 
-* Class 14 (Lab 5): Simple Loops [PDF](pdfs/SP19-13.pdf) 
+* Class 14 (Lab 5): Simple Loops [PDF](pdfs/Labs_2019.docx) 
 * Class 15 (Lec. 6) & Quiz 1: Loops with Multiple Variables & Alternatives [HTML](pdfs/LoopsIntro.html) 
 * Class 16 (Auto. 5): Multivariable Loops (pdfs/SP19-15.pdf) 
 * Class 17 (Lab 6): Multivarible Loops [PDF](pdfs/SP19-16.pdf) 
