@@ -33,7 +33,7 @@ media/Tutorial-videos
 *.mov
 # Office files
 Course-Materials/PDF/*.docx
-*.pptx
+#*.pptx
 
 
 
